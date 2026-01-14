@@ -1,5 +1,9 @@
-<h1 align='center'>🧫 Antibiotic Exposure and Antimicrobial Resistance </h1>
-<p align='center'> *A Health Data Analysis Portfolio Project*</p>
+<div align='center'>
+
+# 🧫 Antibiotic Exposure and Antimicrobial Resistance
+_A Health Data Analysis Portfolio Project_
+
+</div>
 
 ![Project banner](figures/cover_compressed.png)
 *Image credit: ChatGPT*
@@ -54,7 +58,7 @@ Cumulative antibiotic exposure at the patient level was **strongly right-skewed*
 
 Higher cumulative exposure was associated with a greater proportion of resistance events.
 
-![Resistance by exposure category](figures/cae_res.png)
+<img src="figures/cae_res.png" width="600">
 
 ---
 
@@ -62,7 +66,7 @@ Higher cumulative exposure was associated with a greater proportion of resistanc
 
 A logistic regression model demonstrated a clear exposure–response relationship, with resistance probability increasing monotonically and plateauing at higher durations.
 
-![Logistic regression curve](figures/cae_reg.png)
+<img src="figures/cae_reg.png" width="600">
 
 ---
 
