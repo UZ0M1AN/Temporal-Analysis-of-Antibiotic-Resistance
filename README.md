@@ -1,7 +1,8 @@
 # 🧫 Antibiotic Exposure and Antimicrobial Resistance  
 *A Health Data Analysis Portfolio Project*
 
-![Project banner](figures/cover.avif)
+![Project banner](figures/cover.png)
+*Image credit: ChatGPT*
 
 This project explores the relationship between **inpatient antibiotic exposure** and **antimicrobial resistance** using synthetic, observational-style hospital data generated with **Synthea**.
 
