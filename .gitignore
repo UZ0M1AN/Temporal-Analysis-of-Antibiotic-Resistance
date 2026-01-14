@@ -1,2 +1,4 @@
 # Ignore raw data
 csv/
+# Ignore sql
+sql/
