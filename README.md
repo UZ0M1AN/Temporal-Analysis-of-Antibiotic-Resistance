@@ -1,7 +1,5 @@
-<div align='center'>
-# 🧫 Antibiotic Exposure and Antimicrobial Resistance</h1>
-*A Health Data Analysis Portfolio Project*
-</div>
+<h1 align='center'>🧫 Antibiotic Exposure and Antimicrobial Resistance </h1>
+<p align='center'> *A Health Data Analysis Portfolio Project*</p>
 
 ![Project banner](figures/cover_compressed.png)
 *Image credit: ChatGPT*
