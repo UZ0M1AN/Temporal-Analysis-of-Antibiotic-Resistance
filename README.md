@@ -91,3 +91,13 @@ A logistic regression model demonstrated a clear exposure–response relationshi
 ## 🛠️ Tools
 
 Analysis was conducted in Python using `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, and `lifelines`.
+
+---
+
+## 🧭 How to Explore
+
+1. Scan **Key Findings** for quick insights.  
+2. Open **notebooks/** for detailed data wrangling and analysis.  
+3. Read **report/analysis_report.md** for the full narrative and interpretation.  
+4. Browse **figures/** to see all plots referenced in the notebook and report. 
+5. Check **data/** for the admission_level and patient_level datasets. 
