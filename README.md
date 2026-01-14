@@ -1,10 +1,3 @@
-<div align='center'>
-
-# 🧫 Antibiotic Exposure and Antimicrobial Resistance
-_A Health Data Analysis Portfolio Project_
-
-</div>
-
 ![Project banner](figures/cover_compressed.png)
 *Image credit: ChatGPT*
 
